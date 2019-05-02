@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseNotifications</string>
+    <string name="msg_token_fmt">message token format</string>
+    <string name="you_have_a_descount">HEY!! You have a descount</string>
+    <string name="suscribe_android">Suscribe Android</string>
+    <string name="suscribe_firebase">Suscribe Firebase</string>
+</resources>
